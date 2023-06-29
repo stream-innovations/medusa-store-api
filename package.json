@@ -27,7 +27,7 @@
     "@medusajs/admin": "^6.0.1",
     "@medusajs/cache-inmemory": "^1.8.8",
     "@medusajs/cache-redis": "^1.8.8",
-    "@medusajs/event-bus-local": "^1.9.4",
+    "@medusajs/event-bus-local": "^1.9.5",
     "@medusajs/event-bus-redis": "^1.8.8",
     "@medusajs/file-local": "^1.0.1",
     "@medusajs/medusa": "^1.12.1",
